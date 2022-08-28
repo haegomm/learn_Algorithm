@@ -12,12 +12,3 @@ for row in range(n):
 
 for line in arr:
     print(*line)
-
-
-# for row in range(m-1, -1, -1):
-#     for col in range(n):
-#         if not row % 2:
-#             arr[col][row] = k
-#         else:
-#             arr[n-1-col][row] = k
-#         k += 1
