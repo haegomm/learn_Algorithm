@@ -7,7 +7,7 @@ for i in range(1, 4):
                     print(i, j, k)
 
 
-# 재귀 호출을 통한 순셩 생성 방법
+# 재귀 호출을 통한 순열 생성 방법
 def f(i, k):
     if i == k:
         print(p)

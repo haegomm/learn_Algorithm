@@ -1,9 +1,9 @@
-5
-123123
-124467
-333444
-444456
-123444
+# 5
+# 123123
+# 124467
+# 333444
+# 444456
+# 123444
 
 
 def f(i, k):
@@ -36,6 +36,6 @@ for tc in range(1, t + 1):
     card = list(map(int, input()))
     ans = f(0, 6)
     if ans:
-        print(f'#{tc} Baby Gin')
+        print(f'#{tc} True')
     else:
-        print(f'#{tc} Lose')
+        print(f'#{tc} False')
