@@ -15,7 +15,7 @@ for t in range(1, int(input()) + 1):
 
     group = list(range(n+1))
 
-    for i in range(m):
+    for i in range(0, m * 2 - 1, 2):
         x_root, y_root = find_set(apply[i]), find_set(apply[i+1])
 
         if x_root != y_root:
@@ -25,6 +25,9 @@ for t in range(1, int(input()) + 1):
                 group[x_root] = y_root
 
     print(group)
-    group = set(group)
+    for k in range(1, n + 1):
+        group[k] = find_set(k)
+
     print(group)
+    group = set(group)
     print(f'#{t}', len(group) - 1)

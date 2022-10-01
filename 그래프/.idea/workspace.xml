@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abed89ac-ab2b-420f-bec0-f07298c8d01a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../그래프 실습/5248_그룹나누기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/연산.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../그래프 실습/boj.1922_네트워크연결.py" beforeDir="false" afterPath="$PROJECT_DIR$/../그래프 실습/boj.1922_네트워크연결.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/learn_Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.그래프/.idea/11.그래프.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../그래프 실습/5250_최소비용/5250_최소비용.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/그래프.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../그래프 실습/5248_그룹나누기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../그래프 실습/5248_그룹나누기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../그래프 실습/연습.py" beforeDir="false" afterPath="$PROJECT_DIR$/../그래프 실습/연습.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/그래프.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prim.py" beforeDir="false" afterPath="$PROJECT_DIR$/prim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/크루스칼.py" beforeDir="false" afterPath="$PROJECT_DIR$/크루스칼.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.dfs">
+  <component name="RunManager" selected="Python.prim">
     <configuration name="크루스칼" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="그래프" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,10 +146,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.prim" />
         <item itemvalue="Python.dfs" />
         <item itemvalue="Python.bfs" />
-        <item itemvalue="Python.연산" />
-        <item itemvalue="Python.prim" />
         <item itemvalue="Python.크루스칼" />
       </list>
     </recent_temporary>

@@ -15,7 +15,6 @@ for _ in range(m):
 edges.sort()  # (중요) 최소 비용의 간선부터 차례로 검사하기 위해 비용을 기준으로 오름차순 정렬
 
 parent = list(range(n + 1))  # make_set. +1 은 컴퓨터는 0부터 시작하니깐
-print(parent)
 counts = 0  # MST의 간선 개수 (정점 - 1 개가 되면 종료를 하기 위함)
             # 더 이상 간선을 선택하지 않아도 되는 때를 판별
 cost = 0  # MST의 가중치 총합(== 최소 비용)
