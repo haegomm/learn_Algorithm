@@ -37,5 +37,23 @@ for _ in range(m):
     s, e, w = map(int, input().split())
     graph[s].append((e, w))
 
+print(graph)
 dijkstra(1)  # 1번 정점에서 시작
 print(distance)
+
+"""
+[입력]
+
+6 11
+1 2 3
+1 3 5
+2 3 2
+2 4 6
+3 2 1
+3 4 4
+3 5 6
+4 5 2
+4 6 3
+5 1 3
+5 6 6
+"""

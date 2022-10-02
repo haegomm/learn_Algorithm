@@ -35,7 +35,7 @@ for _ in range(m):
     s, e, w = map(int, input().split())  # 시작 정점, 도착 정점, 비용
     graph[s].append((e, w))  # 무방향이라서 양쪽 넣어주고 비용도 넣어줘야함.
     graph[e].append((s, w))
-
+print(graph)
 print(prim(1))  # 1번 정점에서 시작
 
 """
