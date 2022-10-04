@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abed89ac-ab2b-420f-bec0-f07298c8d01a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/learn_Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11.그래프/.idea/11.그래프.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../그래프 실습/5250_최소비용/5250_최소비용.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/그래프.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../그래프 실습/5248_그룹나누기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../그래프 실습/5248_그룹나누기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../그래프 실습/연습.py" beforeDir="false" afterPath="$PROJECT_DIR$/../그래프 실습/연습.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim.py" beforeDir="false" afterPath="$PROJECT_DIR$/prim.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/크루스칼.py" beforeDir="false" afterPath="$PROJECT_DIR$/크루스칼.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
