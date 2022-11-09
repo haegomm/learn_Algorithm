@@ -1,11 +1,15 @@
 def solution(s):
-    # words = s.split()
-    answer = ''
+    words = s.split(' ')
+    answer = []
 
-    # for word in words:
-    for i in range(0, len(s), 2):
-        s = s.replace(s[i], s[i].upper(), 1)
+    for word in words:
+        word = list(word)
+        for i in range(0, len(word), 2):
+            word[i] = word[i].upper()
+        word = "".join(word)
+        answer += [word]
+    answer = " ".join(answer)
 
-    return s
+    return answer
 
 print(solution("try hello world"))

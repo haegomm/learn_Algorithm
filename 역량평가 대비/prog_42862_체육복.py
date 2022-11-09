@@ -18,4 +18,4 @@ def solution(n, lost, reserve):
 
     return answer
 
-print(solution(5, [2, 4], [3]))
+print(solution(5, [3, 4], [4, 5]))
